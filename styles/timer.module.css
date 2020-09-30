@@ -1,0 +1,21 @@
+.container {
+  border-radius: 1rem;
+  background-color: thistle;
+  width: fit-content;
+}
+
+.watch {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.leapBox {
+  composes: container;
+  background-color: darkgray;
+  width: fit-content;
+  height: fit-content;
+}
+
+.leapBox .leap {
+  margin: 1rem 0.5rem;
+}

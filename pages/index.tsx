@@ -10,7 +10,7 @@ const Home: FunctionComponent = () => {
         <title>Homepage</title>
       </Head>
       <main>
-        <h1>Homepage Component</h1>
+        <h1>Cronometro</h1>
         <Timer />
       </main>
     </>
